@@ -48,3 +48,7 @@ In magisk install:
 2. Debloater
 
 To fix safetynet 
+
+
+-----------------------------------------------------------------------------
+Initial flash
