@@ -231,6 +231,8 @@ adb.exe shell su -c dmesg > dmesg.txt
 adb.exe logcat
 ```
 
+PIE stock key - magiskprop - `lge/joan_global_com/joan:9/PKQ1.190414.001/193091504cde8:user/release-keys`
+
 -------
 WIFI
 
